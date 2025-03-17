@@ -2,4 +2,4 @@
 
 
 - 🔭 I'm a software engineer
-- 🌱 interest in backend
+- 🌱 Interest in Backend Engineering
